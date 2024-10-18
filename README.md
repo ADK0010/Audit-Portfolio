@@ -13,3 +13,9 @@ This repo holds a selection of recent Smart Contract Security Findings I've made
 |Chainlink CCIP V1.5                         |CCIP is the global standard for cross-chain interoperability. It enables developers to build secure, multi-chain applications and services, backed by Chainlink’s decentralized oracle network. | Codehawks (Unique Low)  | Dual([0xSolWrecker](https://codehawks.cyfrin.io/team/cly1f2fxg000141aadna138bc/)) |
 |Zetachain                                   |ZetaChain is a L1 EVM compatible blockchain focused on connecting blockchains. | Cantina(1H,2M) | Dual(0xSolWrecker)|
 |Uniswap V4                                  |The Uniswap protocol is a peer-to-peer system designed for exchanging cryptocurrencies (ERC-20 Tokens) on the Ethereum blockchain.|Cantina(1L,1Info Confirmed) | Dual(0xSolWrecker)|
+
+## Bug Bounties
+### Immunefi
+1) Elixir - I have managed to find a Medium Severity vulnerability on on-chain contracts of Elixir Protocol which has been confirmed by the Protocol Team .
+![image](https://github.com/user-attachments/assets/c9ebcaad-87fb-43d0-80ef-7931c12cb3fa)
+
