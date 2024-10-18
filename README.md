@@ -1,5 +1,6 @@
 # Angry_Mustache_Man Smart Contract Security Public Contests.
-This repo holds a selection of recent Smart Contract Security Contests I've done that can be shared publicly.
+This repo holds a selection of recent Smart Contract Security Findings I've made that can be shared publicly.
+## Contests
 
 | Protocol                                   | Info | My/Our Findings|Team/Solo |              
 |--------------------------------------------| ---- |-----------------------------------------------|-----------------|
@@ -10,3 +11,5 @@ This repo holds a selection of recent Smart Contract Security Contests I've done
 |Maia DAO - Ulysses                          |Harnessing the power of Arbitrum, Ulysses Omnichain specializes in Virtualized Liquidity Management. | [C4(H-1)](https://github.com/code-423n4/2023-09-maia-findings/issues/730) | Dual([unsafesol](https://code4rena.com/@unsafesol)) |
 |Steadefi                                    |Steadefi is the next-gen DeFi protocol designed to provide the highest and most sustainable real yields to our investors without the stress of constant position management or the prolonged downturns of the crypto markets. | [CodeHawks(M-1)](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/203) | Solo |
 |Chainlink CCIP V1.5                         |CCIP is the global standard for cross-chain interoperability. It enables developers to build secure, multi-chain applications and services, backed by Chainlink’s decentralized oracle network. | Codehawks (Unique Low)  | Dual([0xSolWrecker](https://codehawks.cyfrin.io/team/cly1f2fxg000141aadna138bc/)) |
+|Zetachain                                   |ZetaChain is a L1 EVM compatible blockchain focused on connecting blockchains. | Cantina(1H,2M) | Dual(0xSolWrecker)|
+|Uniswap V4                                  |The Uniswap protocol is a peer-to-peer system designed for exchanging cryptocurrencies (ERC-20 Tokens) on the Ethereum blockchain.|Cantina(1L,1Info Confirmed) | Dual(0xSolWrecker)|
