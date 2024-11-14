@@ -16,6 +16,7 @@ This repo holds a selection of recent Smart Contract Security Findings I've made
 
 ## Bug Bounties
 ### Immunefi
-1) Elixir - I have managed to find a Medium Severity vulnerability on on-chain contracts of Elixir Protocol which has been confirmed by the Protocol Team .
+1) XXX - I have managed to find a Medium Severity vulnerability on on-chain contracts of XXX Protocol which has been confirmed by the Protocol Team .
 ![image](https://github.com/user-attachments/assets/c9ebcaad-87fb-43d0-80ef-7931c12cb3fa)
+2) Another Bug Confirmed on Immunefi , but nothing about it can be made public now 
 
