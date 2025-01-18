@@ -1,11 +1,17 @@
-# Angry_Mustache_Man Smart Contract Security Public Contests.
-This repo holds a selection of recent Smart Contract Security Findings I've made that can be shared publicly.
+# Angry_Mustache_Man Smart Contract Security Security Audit Portfolio
+This repo holds a selection of Smart Contract Security Findings I've made that can be shared publicly.
 ## Contests
+Audit contests are an incredible way to sharpen my auditing skills, as they involve competing with hundreds of top security researchers from around the globe. These challenges provide me with the opportunity to learn from the best in the field, gain valuable experience, and earn rewards simultaneously. 🫡
 
+## Top 10
+|Protocol         | Info  | Findings | Team/Solo |Position |
+|-----------------|-------|----------|-----------|---------|
+|Stakelink |stake.link is a first-of-its-kind liquid delegated staking platform delivering DeFi composability for Chainlink Staking. | [Codehawks(1M)](https://codehawks.cyfrin.io/c/2024-09-stakelink/results?t=leaderboard&lt=contest&page=1) | Solo |🥉 3rd|
+|PoolTogether V5: |A protocol for no-loss prize savings.|[C4(M-1)](https://github.com/code-423n4/2023-08-pooltogether-findings/issues/163) [C4(M-2)](https://github.com/code-423n4/2023-08-pooltogether-findings/issues/85) | Solo |10th |
+
+## Notable Findings
 | Protocol                                   | Info | My/Our Findings|Team/Solo |             
 |--------------------------------------------| ---- |-----------------------------------------------|-----------------|
-|Stakelink                                   |stake.link is a first-of-its-kind liquid delegated staking platform delivering DeFi composability for Chainlink Staking. | [Codehawks(1M)](https://codehawks.cyfrin.io/c/2024-09-stakelink/results?t=leaderboard&lt=contest&page=1) | Solo | 
-|PoolTogether V5:                            |A protocol for no-loss prize savings.|[C4(M-1)](https://github.com/code-423n4/2023-08-pooltogether-findings/issues/163) [C4(M-2)](https://github.com/code-423n4/2023-08-pooltogether-findings/issues/85) | Solo |
 |Zetachain                                   |ZetaChain is a L1 EVM compatible blockchain focused on connecting blockchains. | Cantina(1H,2M) | Dual(0xSolWrecker)|
 |USSD                                        |USSD is an autonomous secure dollar that is censorship-resistent, crypto-backed, autonomous, and multi-collateralized.|[Sherlock(3H,2M)](https://github.com/sherlock-audit/2023-05-USSD-judging/issues?q=label%3AReward+angry+is%3Aclosed) | Solo |   
 |Ironbank                                    |Iron Bank is a decentralized lending platform focused on capital efficiency allowing protocols and individuals to supply and borrow cryptoassets.|[Sherlock(3M)](https://github.com/sherlock-audit/2023-05-ironbank-judging/issues?q=label%3AReward+angry+is%3Aclosed) | Solo |
@@ -16,8 +22,10 @@ This repo holds a selection of recent Smart Contract Security Findings I've made
 |Uniswap V4                                  |The Uniswap protocol is a peer-to-peer system designed for exchanging cryptocurrencies (ERC-20 Tokens) on the Ethereum blockchain.|Cantina(1L,1Info Confirmed) | Dual(0xSolWrecker)|
 
 ## Bug Bounties
-### Immunefi
-1) Elixir - I have managed to find a Medium Severity vulnerability on on-chain contracts of XXX Protocol which has been confirmed by the Protocol Team .
-![image](https://github.com/user-attachments/assets/c9ebcaad-87fb-43d0-80ef-7931c12cb3fa)
-2) XXXX - Another Bug Confirmed on Immunefi , but nothing about it can be made public now 
+Occasionally , I hunt for bugs in the wild .
+|Protocol | Severity | Platform  |  Reward |
+|---------| -------- |-----------|---------|
+|Elixir | Medium | Immunefi  | $1000 |
+|Yield Nest | High | Immunefi | $5000 |
+
 
